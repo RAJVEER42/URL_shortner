@@ -144,7 +144,7 @@ Feel free to use, modify, and distribute with attribution.
 **Rajveer Bishnoi** ✨
 
 * GitHub: [@RAJVEER42](https://github.com/RAJVEER42)
-* LinkedIn: [Rajveer Bishnoi](https://www.linkedin.com/in/rajveer-bishnoi-576b62356/))
+* LinkedIn: [Rajveer Bishnoi]((https://www.linkedin.com/in/rajveer-bishnoi-576b62356/))
 
 ---
 
