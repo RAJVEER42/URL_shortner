@@ -158,7 +158,7 @@ Feel free to use and modify it!
 
 ## 👨‍💻 Author
 
-**Rajveer Bishnoi**✨
+~ **Rajveer Bishnoi**✨
 
 * GitHub: [@RAJVEER42](https://github.com/RAJVEER42)
 * LinkedIn: [Rajveer Bishnoi](https://www.linkedin.com/in/rajveer-bishnoi-576b62356/)
