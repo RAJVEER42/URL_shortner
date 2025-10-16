@@ -1,5 +1,5 @@
 
-# 🚀 URL Shortener: From Long to Short in a Flash!
+<h1 align="center"> 🚀 URL Shortener: From Long to Short in a Flash! </h1>
 
 <p align="center">
 Welcome to **URL Shortener**, a super fast and secure service that turns long, clunky links into short, shareable ones!  
