@@ -1,8 +1,16 @@
 
 # 🚀 URL Shortener: From Long to Short in a Flash!
 
+<p align="center">
 Welcome to **URL Shortener**, a super fast and secure service that turns long, clunky links into short, shareable ones!  
 It's more than just a simple tool—it’s a powerful backend solution built to handle all your link-shortening needs, complete with real-time analytics and robust authentication.
+</p>
+
+<p align="center">
+  <img width="303" height="166" 
+       src="https://github.com/user-attachments/assets/eb3d4d82-86c9-472e-b5c9-0ff79fe769e4" 
+       alt="image" />
+</p>
 
 ---
 
